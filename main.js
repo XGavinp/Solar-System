@@ -18,6 +18,7 @@ import saturnRingTexture from './assets/saturn ring.png'
 import uranusTexture from './assets/uranus.jpg'
 import uranusRingTexture from './assets/uranus ring.png'
 import venusTexture from './assets/venus.jpg'
+import { Analytics } from "@vercel/analytics/react"
 
 
 //renderer helps to render all objects on the HTML page
